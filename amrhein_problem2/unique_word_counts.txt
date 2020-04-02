@@ -1,0 +1,6 @@
+orange appears 6 time(s)
+apple appears 6 time(s)
+lemon appears 4 time(s)
+kiwi appears 1 time(s)
+pear appears 4 time(s)
+bannana appears 5 time(s)
